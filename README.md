@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Just another repository
+高恵子です。githubを勉強しています。
+
